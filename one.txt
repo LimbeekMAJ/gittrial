@@ -9,3 +9,5 @@ git add .
 git commit -m 'included some random stuff, ie first three files'
 
 git log
+
+git checkout (commit number) % terug naar stuff
