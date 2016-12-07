@@ -5,3 +5,5 @@ git init
 git status
 
 git add .
+
+git commit -m 'included some random stuff, ie first three files'
