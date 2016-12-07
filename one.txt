@@ -7,3 +7,5 @@ git status
 git add .
 
 git commit -m 'included some random stuff, ie first three files'
+
+git log
